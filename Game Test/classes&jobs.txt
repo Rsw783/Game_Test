@@ -1,0 +1,6 @@
+Characters have specific classes
+	IE each character have a certain style
+	mage, range, etc
+
+there will be jobs within each class
+	IE mage > fire/ice/lighning etc
